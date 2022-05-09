@@ -1,6 +1,9 @@
 # Rahul-patalia.github.io
 Portfolio Website
 
+## Languages used:
+- HTML, CSS, JavaScript, Bootstrap.
+
 ## If you wants to use this theme for your portfolio than follow the steps:
 
 - Download all the file
