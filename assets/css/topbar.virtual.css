@@ -190,8 +190,8 @@
 }
 
 .timeline li .title {
-  width: 150px;
-  padding: 6px 20px;
+  width: fit-content;
+  padding: 6px 30px 6px 20px;
   background-color: #747474;
   color: #fff;
   font-weight: 500;
@@ -205,9 +205,14 @@
   border-radius: 4px;
 }
 
-.timeline li .details h5,
+.timeline li .details h5 {
+  margin-bottom: 0;
+  padding: 5px 0;
+}
 .timeline li .details p {
   margin-bottom: 0;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .timeline li .details small {
